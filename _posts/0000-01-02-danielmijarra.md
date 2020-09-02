@@ -2,5 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+- Barbate? 
+- Cada 5 minutos...
+
 Use the left arrow to go back!
